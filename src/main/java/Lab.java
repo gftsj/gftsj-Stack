@@ -37,7 +37,7 @@ public class Lab {
 
     /**
      * Push a value to the top of the deque.
-     * (this adds the value to the Stack.)
+     * (this adds the value to the Stack.) Erase This
      * @param stack A Deque of Strings.
      * @param item a String to be added to the deque.
      */
